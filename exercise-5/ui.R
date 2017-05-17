@@ -7,7 +7,7 @@ library(shiny)
 shinyUI(fluidPage(
   
   # Add a descriptive application title
-  titlePanel("Add Title Here"),
+  titlePanel("Should women let men run the country?"),
   
   # Here you will add the interactivity to your app
   # Create a selectInput where the user can select either Men, Women, or Both. 
